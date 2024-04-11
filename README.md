@@ -1,1 +1,1 @@
-# project-MyBaker
+# Сучасна пекарня "SHOP bakery"
